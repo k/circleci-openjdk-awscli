@@ -1,2 +1,7 @@
 # circleci-openjdk-awscli
-circleci openjdk image with aws cli
+
+CircleCI OpenJDK Docker image with AWS CLI
+
+## Repo
+
+https://github.com/adambene/circleci-openjdk-awscli
